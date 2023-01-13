@@ -1,3 +1,3 @@
 # Insurance_Prediction
-predicting the insurance based on if the sex, number of children, smoker, bmi, region.
-# code is re-usable for other data
+predicting the insurance based on the sex, number of children, smoker, bmi, region.
+Trying Lasso, Ridge, KNN, Gradientboostingregressor 
